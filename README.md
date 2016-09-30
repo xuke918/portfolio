@@ -12,4 +12,4 @@ My name is Ke Xu, and I am a creative graphic designer. I have passion for brand
 
 ---
 
-@2016 Ke Xu
+© 2016 Ke Xu
