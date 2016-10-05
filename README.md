@@ -1,4 +1,3 @@
-# portfolio
 # Ke Xu
 
 #### [☛ kexu.ca](http://kexu.ca)
