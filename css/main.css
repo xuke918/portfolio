@@ -21,10 +21,17 @@ body {
 }
 
 header{
-  background-color: #e2e2e2;
-  padding: 1em 0 40px;
+  padding: 0;
   text-align: center;
   position: relative;
+}
+
+h1 {
+  margin: 0;
+  text-align: left;
+  position: absolute;
+  display: block;
+  top: 0;
 }
 
 .nav {
@@ -35,7 +42,7 @@ header{
   display: none;
   position: absolute;
   right: 0;
-  top: 100%;
+  top: 30%;
   width: 15em;
 }
 
@@ -68,7 +75,7 @@ header{
   width: 40px;
   position: absolute;
   right: 0;
-  bottom: 0;
+  top: 0;
 }
 
 .nav-open,
@@ -90,5 +97,11 @@ header{
 }
 
 .nav-check:checked ~ .nav-label .nav-close {
+  display: block;
+}
+
+.banner {
+  width: 100%;
+  position: relative;
   display: block;
 }
