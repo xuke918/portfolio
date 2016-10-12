@@ -71,7 +71,7 @@ header{
   cursor: pointer;
   font-size: 1.25rem;
   display: inline-block;
-  width: 70px;
+  width: 50px;
   position: absolute;
   right: 0;
   top: 0;
@@ -125,6 +125,10 @@ header{
 
 .portfolio {
   width: 100%;
+}
+
+h2 {
+  margin: 20px 0 0;
 }
 
 h3 {
