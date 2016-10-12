@@ -20,11 +20,6 @@ body {
   margin: 0;
 }
 
-header{
-  padding: 0;
-  position: relative;
-}
-
 .logo {
   width: 10%;
   display: block;
@@ -105,9 +100,11 @@ header{
 }
 
 .banner {
+  margin: 0;
+  padding: 0;
+  position: relative;
   background-color: #495562;
   overflow: hidden;
-  margin-bottom: 1em;
 }
 
 .banner-title {
