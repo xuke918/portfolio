@@ -27,23 +27,25 @@ header{
 }
 
 h1 {
+  font-size: 2em;
   margin: 0;
   text-align: left;
   position: absolute;
   display: block;
-  top: 0;
+  top: 5px;
+  left: 5px;
 }
 
 .nav {
   margin: 0;
   padding: 0;
   list-style-type: none;
-  background-color: #ccc;
+  background-color: white;
   display: none;
-  position: absolute;
-  right: 0;
-  top: 30%;
-  width: 15em;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  width: 100%;
 }
 
 .nav a {
@@ -55,7 +57,7 @@ h1 {
 }
 
 .nav a:hover {
-  background-color: #333;
+  background-color: red;
   color: #fff;
 }
 
@@ -102,6 +104,49 @@ h1 {
 
 .banner {
   width: 100%;
-  position: relative;
+}
+
+.person {
   display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+.portfolio {
+  width: 100%;
+}
+
+h3 {
+  text-align: center;
+}
+
+.social {
+  display: inline-block;
+}
+
+@@media only screen and (min-width: 24em) {
+
+  .name {
+    text-align: center;
+  }
+
+}
+
+
+
+
+//*@media only screen and (min-width: 35em) {
+
+  nav li {
+    display: inline-block;
+  }
+
+  .nav {
+    display: inline-block;
+  }
+
+  .nav-open,
+  .nav-close {
+    display: none;
+  }
 }

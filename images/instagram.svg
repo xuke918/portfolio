@@ -1,28 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 249.8 249.8" style="enable-background:new 0 0 249.8 249.8;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#FF6485;stroke:#FFFFFF;stroke-width:15;stroke-miterlimit:10;}
-	.st1{fill:#FFFFFF;}
-	.st2{fill:none;stroke:#F06384;stroke-width:5;stroke-miterlimit:10;}
-	.st3{fill:#F06384;stroke:#F06384;stroke-width:1.5509;stroke-miterlimit:10;}
-	.st4{fill:#F06384;stroke:#FFFFFF;stroke-width:6;stroke-miterlimit:10;}
-	.st5{fill:#F06384;}
-	.st6{fill:none;stroke:#F06384;stroke-width:3;stroke-miterlimit:10;}
-</style>
-<g>
-	<circle class="st0" cx="124.9" cy="124.9" r="109.9"/>
-</g>
-<g>
-	<path class="st1" d="M161.1,178.6H89c-9.7,0-17.8-8.1-17.8-17.8V93c0-9.7,8.1-17.8,17.8-17.8h71.8c9.7,0,17.8,8.1,17.8,17.8v67.8
-		C178.6,170.5,170.9,178.6,161.1,178.6z"/>
-	<line class="st2" x1="71.5" y1="104.4" x2="178.6" y2="104.4"/>
-	<circle class="st3" cx="124.9" cy="128.6" r="28.5"/>
-	<circle class="st4" cx="124.9" cy="128.6" r="20.1"/>
-	<rect x="158.5" y="84.9" class="st5" width="13.1" height="13.1"/>
-	<line class="st6" x1="83.3" y1="77.2" x2="83.3" y2="93"/>
-	<line class="st6" x1="88" y1="75.5" x2="88" y2="93"/>
-	<line class="st6" x1="93" y1="75.5" x2="93" y2="93"/>
-</g>
+	 viewBox="0 0 249.8 249.8" enable-background="new 0 0 249.8 249.8" xml:space="preserve">
+<rect x="15" y="15" fill="#C1BFC0" width="219.8" height="219.8"/>
+<path fill="#FFFFFF" d="M161.1,178.6H89c-9.7,0-17.8-8.1-17.8-17.8V93c0-9.7,8.1-17.8,17.8-17.8h71.8c9.7,0,17.8,8.1,17.8,17.8v67.8
+	C178.6,170.5,170.9,178.6,161.1,178.6z"/>
+<line fill="none" stroke="#C0C0C0" stroke-width="5" stroke-miterlimit="10" x1="71.5" y1="104.4" x2="178.6" y2="104.4"/>
+<circle fill="#C1BFC0" cx="124.9" cy="128.6" r="28.5"/>
+<circle fill="#C1BFC0" stroke="#FFFFFF" stroke-width="6" stroke-miterlimit="10" cx="124.9" cy="128.6" r="20.1"/>
+<rect x="158.5" y="84.9" fill="#C0C0C0" stroke="#C0C0C0" stroke-miterlimit="10" width="13.1" height="13.1"/>
+<line fill="none" stroke="#C0C0C0" stroke-width="3" stroke-miterlimit="10" x1="83.3" y1="77.2" x2="83.3" y2="93"/>
+<line fill="none" stroke="#C0C0C0" stroke-width="3" stroke-miterlimit="10" x1="88" y1="75.5" x2="88" y2="93"/>
+<line fill="none" stroke="#C0C0C0" stroke-width="3" stroke-miterlimit="10" x1="93" y1="75.5" x2="93" y2="93"/>
 </svg>
