@@ -139,6 +139,10 @@ header {
   margin: 10px 0 10px 0;
 }
 
+h2 {
+  margin: 0;
+}
+
 h3 {
   font-family: 'Asap', sans-serif;
   text-align: center;
