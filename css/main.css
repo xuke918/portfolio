@@ -47,6 +47,7 @@ header {
 }
 
 .nav a {
+  font-family: 'Asap', sans-serif;
   display: block;
   padding: 0.5em;
   text-decoration: none;
@@ -111,10 +112,15 @@ header {
 }
 
 .banner-title {
+  font-family: 'Asap', sans-serif;
   color: #fff;
   margin: 0 0 1em;
   text-align: center;
   padding: 1em;
+}
+
+.intro {
+  font-family: 'PT Serif', serif;
 }
 
 .person {
@@ -128,29 +134,37 @@ header {
 }
 
 .aboutme {
+  font-family: 'Asap', sans-serif;
   text-align: center;
   margin: 10px 0 10px 0;
 }
 
 h3 {
+  font-family: 'Asap', sans-serif;
   text-align: center;
 }
 
 footer {
-  background-color: red;
+  background-color: darkgrey;
   text-align: center;
+  padding-top: 10px;
 }
 
 .social-icons {
+  padding: 0;
   margin: 0;
 }
 
 .social-icons li {
-  width: 5%;
+  width: 10%;
   overflow: hidden;
   display: inline-block;
 }
 
+.copyright {
+  font-family: 'PT Serif', serif;
+  margin: 0;
+}
 
 @media only screen and (min-width: 42em) {
 
@@ -165,28 +179,12 @@ footer {
   }
 
   .logo {
-    width: 5%;
+    width: 10%;
     padding: 5px;
   }
 
   .aboutme {
     text-align: left;
     margin: 60px 0 0;
-  }
-}
-
-//*@media only screen and (min-width: 35em) {
-
-  nav li {
-    display: inline-block;
-  }
-
-  .nav {
-    display: inline-block;
-  }
-
-  .nav-open,
-  .nav-close {
-    display: none;
   }
 }
