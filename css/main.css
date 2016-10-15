@@ -149,7 +149,6 @@ h1 {
 
 h2 {
   font-family: 'Asap', sans-serif;
-  margin: 0;
 }
 
 h3 {
@@ -177,6 +176,12 @@ footer {
 .copyright {
   font-family: 'Asap', sans-serif;
   margin: 0;
+}
+
+.work {
+  margin: 0;
+  padding-top: 60px;
+  text-align: center;
 }
 
 @media only screen and (min-width: 42em) {
