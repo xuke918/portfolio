@@ -101,6 +101,10 @@ header {
   display: block;
 }
 
+.home {
+  padding-top: 2em;
+}
+
 .img-flex {
   display: block;
   width: 100%;
@@ -165,13 +169,13 @@ footer {
 }
 
 .social-icons li {
-  width: 10%;
+  width: 5%;
   overflow: hidden;
   display: inline-block;
 }
 
 .copyright {
-  font-family: 'PT Serif', serif;
+  font-family: 'Asap', sans-serif;
   margin: 0;
 }
 
